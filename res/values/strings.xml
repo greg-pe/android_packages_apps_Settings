@@ -2921,9 +2921,6 @@ found in the list of installed applications.</string>
 
     <string name="elite_settings_title">Elite Settings</string>
 
-     <!-- Widget Picker -->
-     <string name="widget_count">(%d widgets)</string>
-
       <string name="Exit">Exit</string>
       <string name="changelog_title">Project Elite Changelog</string>
 </resources>
